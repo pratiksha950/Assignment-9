@@ -24,6 +24,7 @@ input{
    color: black;
     border-radius: 10px;
     border: 2px solid white;
+    outline: none;
     
 }
 .input-box{
@@ -53,13 +54,11 @@ input{
     justify-content: space-around;
     margin-top: 20px;
 }
-
 .btn2{
     width: 90px;
-   
 }
 .btn2:hover{
     width: 90px;
-    background-color: #f4b9b8;
+    background-color: #eff1db;
     border: 2px solid black;
 }
