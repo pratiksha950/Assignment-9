@@ -8,9 +8,9 @@ function area(){
 function clearInput(){
     const input1=document.getElementById("input1");
     const input2=document.getElementById("input2");
-    const result=document.getElementById("button");
+    const solution=document.getElementById("button");
 
     input1.value="";
     input2.value="";
-    result.innerText="";
+    solution.innerText="";
 }
